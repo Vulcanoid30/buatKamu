@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buatKamu/static/css/main.fc350c2f.css",
+    "main.js": "/buatKamu/static/js/main.81ff1059.js",
+    "static/js/787.28cb0dcd.chunk.js": "/buatKamu/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/buatKamu/index.html",
+    "main.fc350c2f.css.map": "/buatKamu/static/css/main.fc350c2f.css.map",
+    "main.81ff1059.js.map": "/buatKamu/static/js/main.81ff1059.js.map",
+    "787.28cb0dcd.chunk.js.map": "/buatKamu/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc350c2f.css",
+    "static/js/main.81ff1059.js"
+  ]
+}
